@@ -35,6 +35,16 @@ The output data files are:
 - `trends/*`: Census-related data (e.g., household income) used in the "Citywide Trends" section of the ProgressPHL dashboard.
 - `census-data/*`: The census data for each tract, neighborhood, region that is loaded as part of the "Indicators" section of the ProgressPHL dashboard.
 
+## Geographies
+
+You can run:
+
+```bash
+poetry run progressphl-data geo
+```
+
+to generate the GeoJSON files for the census tracts, neighborhoods, and regions.
+They are saved in the `data-products/geographies/` folder. 
 
 ## Development set up
 
