@@ -1,0 +1,96 @@
+{
+  "social_progress_index": [
+    "basic_human_needs",
+    "foundations_of_wellbeing",
+    "opportunity"
+  ],
+  "basic_human_needs": [
+    "nutrition_and_medical_care",
+    "water_and_sanitation",
+    "shelter",
+    "personal_safety"
+  ],
+  "foundations_of_wellbeing": [
+    "basic_knowledge_access",
+    "info_comms_access",
+    "health_and_wellness",
+    "environmental_quality"
+  ],
+  "opportunity": [
+    "personal_rights",
+    "personal_freedom_and_choice",
+    "inclusiveness",
+    "advanced_education_access"
+  ],
+  "nutrition_and_medical_care": [
+    "dental_care_visits",
+    "food_stamp_usage",
+    "preventative_care_visits"
+  ],
+  "water_and_sanitation": [
+    "impervious_surfaces",
+    "no_plumbing",
+    "hazardous_waste_violations",
+    "safe_drinking_water_violations"
+  ],
+  "shelter": [
+    "eviction_rate",
+    "housing_overcrowding",
+    "housing_cost_burden_owners",
+    "housing_cost_burden_renters"
+  ],
+  "personal_safety": [
+    "car_accident_rate",
+    "property_crime_rate",
+    "violent_crime_rate"
+  ],
+  "basic_knowledge_access": [
+    "less_than_9th_grade_education",
+    "no_high_school_diploma",
+    "preschool_enrollment",
+    "lang_arts_proficiency_3rd_grade",
+    "math_proficiency_8th_grade"
+  ],
+  "info_comms_access": [
+    "broadband_access",
+    "cellular_data_access",
+    "internet_speed_download",
+    "internet_speed_upload",
+    "no_internet_access"
+  ],
+  "health_and_wellness": [
+    "cancer_prevalence",
+    "heart_disease_prevalence",
+    "obesity_prevalence",
+    "poor_mental_health"
+  ],
+  "environmental_quality": [
+    "ozone_concentration",
+    "particulate_matter_concentration",
+    "tree_canopy_loss"
+  ],
+  "personal_rights": [
+    "home_ownership",
+    "voter_registration_rate",
+    "voter_turnout"
+  ],
+  "personal_freedom_and_choice": [
+    "alternative_transpo_usage",
+    "dependency_ratio_65plus",
+    "disconnected_youth",
+    "walkability_index"
+  ],
+  "inclusiveness": [
+    "avg_commute_time",
+    "gender_labor_force_participation",
+    "gender_pay_gap",
+    "linguistic_isolation",
+    "residential_isolation",
+    "residential_segregation"
+  ],
+  "advanced_education_access": [
+    "advanced_degree_holders",
+    "associate_degree_holders",
+    "bachelors_degree_holders"
+  ]
+}

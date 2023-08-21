@@ -1,0 +1,385 @@
+tract_geoid_alt,neighborhood_id,neighborhood_name,tract_id,tract_name,tract_geoid
+42101980400,00,Airport-Navy Yard,01,Airport-Navy Yard 01,0001
+42101005000,00,Airport-Navy Yard,02,Airport-Navy Yard 02,0002
+42101980700,00,Airport-Navy Yard,03,Airport-Navy Yard 03,0003
+42101980600,00,Airport-Navy Yard,04,Airport-Navy Yard 04,0004
+42101980900,00,Airport-Navy Yard,05,Airport-Navy Yard 05,0005
+42101035500,01,Bustleton,01,Bustleton 01,0101
+42101034502,01,Bustleton,02,Bustleton 02,0102
+42101035602,01,Bustleton,03,Bustleton 03,0103
+42101035601,01,Bustleton,04,Bustleton 04,0104
+42101034501,01,Bustleton,05,Bustleton 05,0105
+42101034400,01,Bustleton,06,Bustleton 06,0106
+42101001102,02,Center City East,01,Center City East 01,0201
+42101000100,02,Center City East,02,Center City East 02,0202
+42101000500,02,Center City East,03,Center City East 03,0203
+42101001101,02,Center City East,04,Center City East 04,0204
+42101001002,02,Center City East,05,Center City East 05,0205
+42101000902,02,Center City East,06,Center City East 06,0206
+42101000600,02,Center City East,07,Center City East 07,0207
+42101001001,02,Center City East,08,Center City East 08,0208
+42101036600,02,Center City East,09,Center City East 09,0209
+42101000901,02,Center City East,10,Center City East 10,0210
+42101000200,02,Center City East,11,Center City East 11,0211
+42101001202,03,Center City West,01,Center City West 01,0301
+42101000801,03,Center City West,02,Center City West 02,0302
+42101000804,03,Center City West,03,Center City West 03,0303
+42101000803,03,Center City West,04,Center City West 04,0304
+42101000700,03,Center City West,05,Center City West 05,0305
+42101000401,03,Center City West,06,Center City West 06,0306
+42101001201,03,Center City West,07,Center City West 07,0307
+42101000300,03,Center City West,08,Center City West 08,0308
+42101000402,03,Center City West,09,Center City West 09,0309
+42101038600,04,Chestnut Hill-West Mt. Airy,01,Chestnut Hill-West Mt. Airy 01,0401
+42101023600,04,Chestnut Hill-West Mt. Airy,02,Chestnut Hill-West Mt. Airy 02,0402
+42101023100,04,Chestnut Hill-West Mt. Airy,03,Chestnut Hill-West Mt. Airy 03,0403
+42101038800,04,Chestnut Hill-West Mt. Airy,04,Chestnut Hill-West Mt. Airy 04,0404
+42101038500,04,Chestnut Hill-West Mt. Airy,05,Chestnut Hill-West Mt. Airy 05,0405
+42101023900,04,Chestnut Hill-West Mt. Airy,06,Chestnut Hill-West Mt. Airy 06,0406
+42101023700,04,Chestnut Hill-West Mt. Airy,07,Chestnut Hill-West Mt. Airy 07,0407
+42101025700,04,Chestnut Hill-West Mt. Airy,08,Chestnut Hill-West Mt. Airy 08,0408
+42101023500,04,Chestnut Hill-West Mt. Airy,09,Chestnut Hill-West Mt. Airy 09,0409
+42101038700,04,Chestnut Hill-West Mt. Airy,10,Chestnut Hill-West Mt. Airy 10,0410
+42101008200,05,Cobbs Creek,01,Cobbs Creek 01,0501
+42101008102,05,Cobbs Creek,02,Cobbs Creek 02,0502
+42101008302,05,Cobbs Creek,03,Cobbs Creek 03,0503
+42101008301,05,Cobbs Creek,04,Cobbs Creek 04,0504
+42101008500,05,Cobbs Creek,05,Cobbs Creek 05,0505
+42101008000,05,Cobbs Creek,06,Cobbs Creek 06,0506
+42101008101,05,Cobbs Creek,07,Cobbs Creek 07,0507
+42101008400,05,Cobbs Creek,08,Cobbs Creek 08,0508
+42101020700,06,East Falls-Westside,01,East Falls-Westside 01,0601
+42101020800,06,East Falls-Westside,02,East Falls-Westside 02,0602
+42101024000,06,East Falls-Westside,03,East Falls-Westside 03,0603
+42101024300,06,East Falls-Westside,04,East Falls-Westside 04,0604
+42101024400,06,East Falls-Westside,05,East Falls-Westside 05,0605
+42101020600,06,East Falls-Westside,06,East Falls-Westside 06,0606
+42101025300,07,East Mt. Airy,01,East Mt. Airy 01,0701
+42101025400,07,East Mt. Airy,02,East Mt. Airy 02,0702
+42101025200,07,East Mt. Airy,03,East Mt. Airy 03,0703
+42101025500,07,East Mt. Airy,04,East Mt. Airy 04,0704
+42101025600,07,East Mt. Airy,05,East Mt. Airy 05,0705
+42101038900,07,East Mt. Airy,06,East Mt. Airy 06,0706
+42101006200,08,Eastwick-Elmwood,01,Eastwick-Elmwood 01,0801
+42101005600,08,Eastwick-Elmwood,02,Eastwick-Elmwood 02,0802
+42101006700,08,Eastwick-Elmwood,03,Eastwick-Elmwood 03,0803
+42101006100,08,Eastwick-Elmwood,04,Eastwick-Elmwood 04,0804
+42101005400,08,Eastwick-Elmwood,05,Eastwick-Elmwood 05,0805
+42101005500,08,Eastwick-Elmwood,06,Eastwick-Elmwood 06,0806
+42101006000,08,Eastwick-Elmwood,07,Eastwick-Elmwood 07,0807
+42101012500,09,Fairmount-Spring Garden,01,Fairmount-Spring Garden 01,0901
+42101013401,09,Fairmount-Spring Garden,02,Fairmount-Spring Garden 02,0902
+42101013601,09,Fairmount-Spring Garden,03,Fairmount-Spring Garden 03,0903
+42101013300,09,Fairmount-Spring Garden,04,Fairmount-Spring Garden 04,0904
+42101013602,09,Fairmount-Spring Garden,05,Fairmount-Spring Garden 05,0905
+42101013500,09,Fairmount-Spring Garden,06,Fairmount-Spring Garden 06,0906
+42101013402,09,Fairmount-Spring Garden,07,Fairmount-Spring Garden 07,0907
+42101030100,10,Frankford,01,Frankford 01,1001
+42101030000,10,Frankford,02,Frankford 02,1002
+42101030200,10,Frankford,03,Frankford 03,1003
+42101029400,10,Frankford,04,Frankford 04,1004
+42101029300,10,Frankford,05,Frankford 05,1005
+42101029900,10,Frankford,06,Frankford 06,1006
+42101038000,10,Frankford,07,Frankford 07,1007
+42101024500,11,Germantown,01,Germantown 01,1101
+42101024900,11,Germantown,02,Germantown 02,1102
+42101024100,11,Germantown,03,Germantown 03,1103
+42101024200,11,Germantown,04,Germantown 04,1104
+42101024600,11,Germantown,05,Germantown 05,1105
+42101024700,11,Germantown,06,Germantown 06,1106
+42101024800,11,Germantown,07,Germantown 07,1107
+42101023800,11,Germantown,08,Germantown 08,1108
+42101003800,12,Grays Ferry-Passyunk,01,Grays Ferry-Passyunk 01,1201
+42101037300,12,Grays Ferry-Passyunk,02,Grays Ferry-Passyunk 02,1202
+42101003600,12,Grays Ferry-Passyunk,03,Grays Ferry-Passyunk 03,1203
+42101003300,12,Grays Ferry-Passyunk,04,Grays Ferry-Passyunk 04,1204
+42101009600,13,Haddington-Overbrook,01,Haddington-Overbrook 01,1301
+42101011400,13,Haddington-Overbrook,02,Haddington-Overbrook 02,1302
+42101011200,13,Haddington-Overbrook,03,Haddington-Overbrook 03,1303
+42101009400,13,Haddington-Overbrook,04,Haddington-Overbrook 04,1304
+42101010200,13,Haddington-Overbrook,05,Haddington-Overbrook 05,1305
+42101009500,13,Haddington-Overbrook,06,Haddington-Overbrook 06,1306
+42101011300,13,Haddington-Overbrook,07,Haddington-Overbrook 07,1307
+42101011500,13,Haddington-Overbrook,08,Haddington-Overbrook 08,1308
+42101009300,13,Haddington-Overbrook,09,Haddington-Overbrook 09,1309
+42101010000,13,Haddington-Overbrook,10,Haddington-Overbrook 10,1310
+42101010100,13,Haddington-Overbrook,11,Haddington-Overbrook 11,1311
+42101017602,14,Hunting Park-Fairhill,01,Hunting Park-Fairhill 01,1401
+42101017500,14,Hunting Park-Fairhill,02,Hunting Park-Fairhill 02,1402
+42101019501,14,Hunting Park-Fairhill,03,Hunting Park-Fairhill 03,1403
+42101019900,14,Hunting Park-Fairhill,04,Hunting Park-Fairhill 04,1404
+42101038300,14,Hunting Park-Fairhill,05,Hunting Park-Fairhill 05,1405
+42101980500,14,Hunting Park-Fairhill,06,Hunting Park-Fairhill 06,1406
+42101019502,14,Hunting Park-Fairhill,07,Hunting Park-Fairhill 07,1407
+42101017601,14,Hunting Park-Fairhill,08,Hunting Park-Fairhill 08,1408
+42101019800,14,Hunting Park-Fairhill,09,Hunting Park-Fairhill 09,1409
+42101019700,14,Hunting Park-Fairhill,10,Hunting Park-Fairhill 10,1410
+42101017400,14,Hunting Park-Fairhill,11,Hunting Park-Fairhill 11,1411
+42101028901,14,Hunting Park-Fairhill,12,Hunting Park-Fairhill 12,1412
+42101018800,15,Juniata Park-Harrowgate,01,Juniata Park-Harrowgate 01,1501
+42101019000,15,Juniata Park-Harrowgate,02,Juniata Park-Harrowgate 02,1502
+42101019200,15,Juniata Park-Harrowgate,03,Juniata Park-Harrowgate 03,1503
+42101019100,15,Juniata Park-Harrowgate,04,Juniata Park-Harrowgate 04,1504
+42101038200,15,Juniata Park-Harrowgate,05,Juniata Park-Harrowgate 05,1505
+42101030501,16,Lawndale-Crescentville,01,Lawndale-Crescentville 01,1601
+42101029100,16,Lawndale-Crescentville,02,Lawndale-Crescentville 02,1602
+42101029200,16,Lawndale-Crescentville,03,Lawndale-Crescentville 03,1603
+42101030502,16,Lawndale-Crescentville,04,Lawndale-Crescentville 04,1604
+42101030600,16,Lawndale-Crescentville,05,Lawndale-Crescentville 05,1605
+42101039000,16,Lawndale-Crescentville,06,Lawndale-Crescentville 06,1606
+42101030700,16,Lawndale-Crescentville,07,Lawndale-Crescentville 07,1607
+42101028200,17,Logan,01,Logan 01,1701
+42101028100,17,Logan,02,Logan 02,1702
+42101028000,17,Logan,03,Logan 03,1703
+42101028300,17,Logan,04,Logan 04,1704
+42101028400,17,Logan,05,Logan 05,1705
+42101014300,18,Lower Kensington,01,Lower Kensington 01,1801
+42101016000,18,Lower Kensington,02,Lower Kensington 02,1802
+42101015800,18,Lower Kensington,03,Lower Kensington 03,1803
+42101016100,18,Lower Kensington,04,Lower Kensington 04,1804
+42101031502,19,Mayfair-Holmesburg,01,Mayfair-Holmesburg 01,1901
+42101031800,19,Mayfair-Holmesburg,02,Mayfair-Holmesburg 02,1902
+42101032900,19,Mayfair-Holmesburg,03,Mayfair-Holmesburg 03,1903
+42101031501,19,Mayfair-Holmesburg,04,Mayfair-Holmesburg 04,1904
+42101033200,19,Mayfair-Holmesburg,05,Mayfair-Holmesburg 05,1905
+42101031700,19,Mayfair-Holmesburg,06,Mayfair-Holmesburg 06,1906
+42101033000,19,Mayfair-Holmesburg,07,Mayfair-Holmesburg 07,1907
+42101031600,19,Mayfair-Holmesburg,08,Mayfair-Holmesburg 08,1908
+42101033102,19,Mayfair-Holmesburg,09,Mayfair-Holmesburg 09,1909
+42101032600,19,Mayfair-Holmesburg,10,Mayfair-Holmesburg 10,1910
+42101033300,19,Mayfair-Holmesburg,11,Mayfair-Holmesburg 11,1911
+42101033101,19,Mayfair-Holmesburg,12,Mayfair-Holmesburg 12,1912
+42101009200,20,Mill Creek-Parkside,01,Mill Creek-Parkside 01,2001
+42101010800,20,Mill Creek-Parkside,02,Mill Creek-Parkside 02,2002
+42101010500,20,Mill Creek-Parkside,03,Mill Creek-Parkside 03,2003
+42101011100,20,Mill Creek-Parkside,04,Mill Creek-Parkside 04,2004
+42101010900,20,Mill Creek-Parkside,05,Mill Creek-Parkside 05,2005
+42101010400,20,Mill Creek-Parkside,06,Mill Creek-Parkside 06,2006
+42101010300,20,Mill Creek-Parkside,07,Mill Creek-Parkside 07,2007
+42101010700,20,Mill Creek-Parkside,08,Mill Creek-Parkside 08,2008
+42101010600,20,Mill Creek-Parkside,09,Mill Creek-Parkside 09,2009
+42101011000,20,Mill Creek-Parkside,10,Mill Creek-Parkside 10,2010
+42101980300,21,NE Airport,01,NE Airport 01,2101
+42101020500,22,Nicetown-Tioga,01,Nicetown-Tioga 01,2201
+42101020200,22,Nicetown-Tioga,02,Nicetown-Tioga 02,2202
+42101017300,22,Nicetown-Tioga,03,Nicetown-Tioga 03,2203
+42101020000,22,Nicetown-Tioga,04,Nicetown-Tioga 04,2204
+42101020101,22,Nicetown-Tioga,05,Nicetown-Tioga 05,2205
+42101020400,22,Nicetown-Tioga,06,Nicetown-Tioga 06,2206
+42101017201,22,Nicetown-Tioga,07,Nicetown-Tioga 07,2207
+42101020102,22,Nicetown-Tioga,08,Nicetown-Tioga 08,2208
+42101020300,22,Nicetown-Tioga,09,Nicetown-Tioga 09,2209
+42101017000,22,Nicetown-Tioga,10,Nicetown-Tioga 10,2210
+42101017202,22,Nicetown-Tioga,11,Nicetown-Tioga 11,2211
+42101017100,22,Nicetown-Tioga,12,Nicetown-Tioga 12,2212
+42101016200,23,Northern Liberties-West Kensington,01,Northern Liberties-West Kensington 01,2301
+42101016300,23,Northern Liberties-West Kensington,02,Northern Liberties-West Kensington 02,2302
+42101036700,23,Northern Liberties-West Kensington,03,Northern Liberties-West Kensington 03,2303
+42101015700,23,Northern Liberties-West Kensington,04,Northern Liberties-West Kensington 04,2304
+42101037600,23,Northern Liberties-West Kensington,05,Northern Liberties-West Kensington 05,2305
+42101014400,23,Northern Liberties-West Kensington,06,Northern Liberties-West Kensington 06,2306
+42101015600,23,Northern Liberties-West Kensington,07,Northern Liberties-West Kensington 07,2307
+42101016400,23,Northern Liberties-West Kensington,08,Northern Liberties-West Kensington 08,2308
+42101014200,23,Northern Liberties-West Kensington,09,Northern Liberties-West Kensington 09,2309
+42101026900,24,Oak Lane-Fernrock,01,Oak Lane-Fernrock 01,2401
+42101027600,24,Oak Lane-Fernrock,02,Oak Lane-Fernrock 02,2402
+42101027000,24,Oak Lane-Fernrock,03,Oak Lane-Fernrock 03,2403
+42101027100,24,Oak Lane-Fernrock,04,Oak Lane-Fernrock 04,2404
+42101026800,24,Oak Lane-Fernrock,05,Oak Lane-Fernrock 05,2405
+42101027200,24,Oak Lane-Fernrock,06,Oak Lane-Fernrock 06,2406
+42101027902,25,Ogontz,01,Ogontz 01,2501
+42101027800,25,Ogontz,02,Ogontz 02,2502
+42101026700,25,Ogontz,03,Ogontz 03,2503
+42101027700,25,Ogontz,04,Ogontz 04,2504
+42101026500,25,Ogontz,05,Ogontz 05,2505
+42101027901,25,Ogontz,06,Ogontz 06,2506
+42101029000,26,Olney-Feltonville,01,Olney-Feltonville 01,2601
+42101027500,26,Olney-Feltonville,02,Olney-Feltonville 02,2602
+42101028700,26,Olney-Feltonville,03,Olney-Feltonville 03,2603
+42101027401,26,Olney-Feltonville,04,Olney-Feltonville 04,2604
+42101027402,26,Olney-Feltonville,05,Olney-Feltonville 05,2605
+42101028902,26,Olney-Feltonville,06,Olney-Feltonville 06,2606
+42101028600,26,Olney-Feltonville,07,Olney-Feltonville 07,2607
+42101028500,26,Olney-Feltonville,08,Olney-Feltonville 08,2608
+42101028800,26,Olney-Feltonville,09,Olney-Feltonville 09,2609
+42101027300,26,Olney-Feltonville,10,Olney-Feltonville 10,2610
+42101009802,27,Overbrook Park-Wynnefield Heights,01,Overbrook Park-Wynnefield Heights 01,2701
+42101009801,27,Overbrook Park-Wynnefield Heights,02,Overbrook Park-Wynnefield Heights 02,2702
+42101037500,27,Overbrook Park-Wynnefield Heights,03,Overbrook Park-Wynnefield Heights 03,2703
+42101012201,27,Overbrook Park-Wynnefield Heights,04,Overbrook Park-Wynnefield Heights 04,2704
+42101012000,27,Overbrook Park-Wynnefield Heights,05,Overbrook Park-Wynnefield Heights 05,2705
+42101012100,27,Overbrook Park-Wynnefield Heights,06,Overbrook Park-Wynnefield Heights 06,2706
+42101011700,27,Overbrook Park-Wynnefield Heights,07,Overbrook Park-Wynnefield Heights 07,2707
+42101012204,27,Overbrook Park-Wynnefield Heights,08,Overbrook Park-Wynnefield Heights 08,2708
+42101012203,27,Overbrook Park-Wynnefield Heights,09,Overbrook Park-Wynnefield Heights 09,2709
+42101011800,27,Overbrook Park-Wynnefield Heights,10,Overbrook Park-Wynnefield Heights 10,2710
+42101011900,27,Overbrook Park-Wynnefield Heights,11,Overbrook Park-Wynnefield Heights 11,2711
+42101980800,27,Overbrook Park-Wynnefield Heights,12,Overbrook Park-Wynnefield Heights 12,2712
+42101031101,28,Oxford Circle,01,Oxford Circle 01,2801
+42101031402,28,Oxford Circle,02,Oxford Circle 02,2802
+42101031300,28,Oxford Circle,03,Oxford Circle 03,2803
+42101031102,28,Oxford Circle,04,Oxford Circle 04,2804
+42101031000,28,Oxford Circle,05,Oxford Circle 05,2805
+42101030900,28,Oxford Circle,06,Oxford Circle 06,2806
+42101030800,28,Oxford Circle,07,Oxford Circle 07,2807
+42101031200,28,Oxford Circle,08,Oxford Circle 08,2808
+42101031401,28,Oxford Circle,09,Oxford Circle 09,2809
+42101980000,29,Park,01,Park 01,2901
+42101980100,29,Park,02,Park 02,2902
+42101980200,29,Park,03,Park 03,2903
+42101006500,30,Paschall-Kingsessing,01,Paschall-Kingsessing 01,3001
+42101006300,30,Paschall-Kingsessing,02,Paschall-Kingsessing 02,3002
+42101007300,30,Paschall-Kingsessing,03,Paschall-Kingsessing 03,3003
+42101006400,30,Paschall-Kingsessing,04,Paschall-Kingsessing 04,3004
+42101006900,30,Paschall-Kingsessing,05,Paschall-Kingsessing 05,3005
+42101007400,30,Paschall-Kingsessing,06,Paschall-Kingsessing 06,3006
+42101007200,30,Paschall-Kingsessing,07,Paschall-Kingsessing 07,3007
+42101007101,30,Paschall-Kingsessing,08,Paschall-Kingsessing 08,3008
+42101006600,30,Paschall-Kingsessing,09,Paschall-Kingsessing 09,3009
+42101007000,30,Paschall-Kingsessing,10,Paschall-Kingsessing 10,3010
+42101007102,30,Paschall-Kingsessing,11,Paschall-Kingsessing 11,3011
+42101002500,31,Pennsport-Queen Village,01,Pennsport-Queen Village 01,3101
+42101002702,31,Pennsport-Queen Village,02,Pennsport-Queen Village 02,3102
+42101001700,31,Pennsport-Queen Village,03,Pennsport-Queen Village 03,3103
+42101002701,31,Pennsport-Queen Village,04,Pennsport-Queen Village 04,3104
+42101001800,31,Pennsport-Queen Village,05,Pennsport-Queen Village 05,3105
+42101001500,31,Pennsport-Queen Village,06,Pennsport-Queen Village 06,3106
+42101001600,31,Pennsport-Queen Village,07,Pennsport-Queen Village 07,3107
+42101037700,32,Poplar-Temple,01,Poplar-Temple 01,3201
+42101014500,32,Poplar-Temple,02,Poplar-Temple 02,3202
+42101013200,32,Poplar-Temple,03,Poplar-Temple 03,3203
+42101016500,32,Poplar-Temple,04,Poplar-Temple 04,3204
+42101016600,32,Poplar-Temple,05,Poplar-Temple 05,3205
+42101014600,32,Poplar-Temple,06,Poplar-Temple 06,3206
+42101014100,32,Poplar-Temple,07,Poplar-Temple 07,3207
+42101013100,32,Poplar-Temple,08,Poplar-Temple 08,3208
+42101033600,33,Rhawnhurst-Fox Chase,01,Rhawnhurst-Fox Chase 01,3301
+42101033500,33,Rhawnhurst-Fox Chase,02,Rhawnhurst-Fox Chase 02,3302
+42101033702,33,Rhawnhurst-Fox Chase,03,Rhawnhurst-Fox Chase 03,3303
+42101033701,33,Rhawnhurst-Fox Chase,04,Rhawnhurst-Fox Chase 04,3304
+42101034000,33,Rhawnhurst-Fox Chase,05,Rhawnhurst-Fox Chase 05,3305
+42101034100,33,Rhawnhurst-Fox Chase,06,Rhawnhurst-Fox Chase 06,3306
+42101033800,33,Rhawnhurst-Fox Chase,07,Rhawnhurst-Fox Chase 07,3307
+42101033900,33,Rhawnhurst-Fox Chase,08,Rhawnhurst-Fox Chase 08,3308
+42101034200,33,Rhawnhurst-Fox Chase,09,Rhawnhurst-Fox Chase 09,3309
+42101033400,33,Rhawnhurst-Fox Chase,10,Rhawnhurst-Fox Chase 10,3310
+42101037800,34,Richmond-Bridesburg,01,Richmond-Bridesburg 01,3401
+42101037900,34,Richmond-Bridesburg,02,Richmond-Bridesburg 02,3402
+42101018002,34,Richmond-Bridesburg,03,Richmond-Bridesburg 03,3403
+42101018300,34,Richmond-Bridesburg,04,Richmond-Bridesburg 04,3404
+42101018001,34,Richmond-Bridesburg,05,Richmond-Bridesburg 05,3405
+42101018400,34,Richmond-Bridesburg,06,Richmond-Bridesburg 06,3406
+42101021500,35,Roxborough-Manayunk,01,Roxborough-Manayunk 01,3501
+42101021100,35,Roxborough-Manayunk,02,Roxborough-Manayunk 02,3502
+42101020900,35,Roxborough-Manayunk,03,Roxborough-Manayunk 03,3503
+42101021400,35,Roxborough-Manayunk,04,Roxborough-Manayunk 04,3504
+42101021600,35,Roxborough-Manayunk,05,Roxborough-Manayunk 05,3505
+42101038400,35,Roxborough-Manayunk,06,Roxborough-Manayunk 06,3506
+42101022000,35,Roxborough-Manayunk,07,Roxborough-Manayunk 07,3507
+42101021200,35,Roxborough-Manayunk,08,Roxborough-Manayunk 08,3508
+42101021000,35,Roxborough-Manayunk,09,Roxborough-Manayunk 09,3509
+42101021700,35,Roxborough-Manayunk,10,Roxborough-Manayunk 10,3510
+42101021300,35,Roxborough-Manayunk,11,Roxborough-Manayunk 11,3511
+42101021900,35,Roxborough-Manayunk,12,Roxborough-Manayunk 12,3512
+42101021800,35,Roxborough-Manayunk,13,Roxborough-Manayunk 13,3513
+42101003200,36,Schuylkill-Point Breeze,01,Schuylkill-Point Breeze 01,3601
+42101001400,36,Schuylkill-Point Breeze,02,Schuylkill-Point Breeze 02,3602
+42101002000,36,Schuylkill-Point Breeze,03,Schuylkill-Point Breeze 03,3603
+42101003100,36,Schuylkill-Point Breeze,04,Schuylkill-Point Breeze 04,3604
+42101001300,36,Schuylkill-Point Breeze,05,Schuylkill-Point Breeze 05,3605
+42101002200,36,Schuylkill-Point Breeze,06,Schuylkill-Point Breeze 06,3606
+42101001900,36,Schuylkill-Point Breeze,07,Schuylkill-Point Breeze 07,3607
+42101002100,36,Schuylkill-Point Breeze,08,Schuylkill-Point Breeze 08,3608
+42101014800,37,Sharswood-Stanton,01,Sharswood-Stanton 01,3701
+42101015300,37,Sharswood-Stanton,02,Sharswood-Stanton 02,3702
+42101014000,37,Sharswood-Stanton,03,Sharswood-Stanton 03,3703
+42101014700,37,Sharswood-Stanton,04,Sharswood-Stanton 04,3704
+42101016701,37,Sharswood-Stanton,05,Sharswood-Stanton 05,3705
+42101013800,37,Sharswood-Stanton,06,Sharswood-Stanton 06,3706
+42101013900,37,Sharswood-Stanton,07,Sharswood-Stanton 07,3707
+42101016702,37,Sharswood-Stanton,08,Sharswood-Stanton 08,3708
+42101004102,38,Snyder-Whitman,01,Snyder-Whitman 01,3801
+42101004201,38,Snyder-Whitman,02,Snyder-Whitman 02,3802
+42101004202,38,Snyder-Whitman,03,Snyder-Whitman 03,3803
+42101004101,38,Snyder-Whitman,04,Snyder-Whitman 04,3804
+42101037200,38,Snyder-Whitman,05,Snyder-Whitman 05,3805
+42101036501,39,Somerton,01,Somerton 01,3901
+42101035701,39,Somerton,02,Somerton 02,3902
+42101035800,39,Somerton,03,Somerton 03,3903
+42101035702,39,Somerton,04,Somerton 04,3904
+42101035900,39,Somerton,05,Somerton 05,3905
+42101036000,39,Somerton,06,Somerton 06,3906
+42101036502,39,Somerton,07,Somerton 07,3907
+42101004001,40,South Broad-Girard Estates,01,South Broad-Girard Estates 01,4001
+42101003901,40,South Broad-Girard Estates,02,South Broad-Girard Estates 02,4002
+42101003701,40,South Broad-Girard Estates,03,South Broad-Girard Estates 03,4003
+42101003702,40,South Broad-Girard Estates,04,South Broad-Girard Estates 04,4004
+42101004002,40,South Broad-Girard Estates,05,South Broad-Girard Estates 05,4005
+42101003902,40,South Broad-Girard Estates,06,South Broad-Girard Estates 06,4006
+42101002300,41,Southwark-Bella Vista,01,Southwark-Bella Vista 01,4101
+42101002802,41,Southwark-Bella Vista,02,Southwark-Bella Vista 02,4102
+42101002801,41,Southwark-Bella Vista,03,Southwark-Bella Vista 03,4103
+42101002400,41,Southwark-Bella Vista,04,Southwark-Bella Vista 04,4104
+42101003001,41,Southwark-Bella Vista,05,Southwark-Bella Vista 05,4105
+42101002900,41,Southwark-Bella Vista,06,Southwark-Bella Vista 06,4106
+42101003002,41,Southwark-Bella Vista,07,Southwark-Bella Vista 07,4107
+42101014900,42,Strawberry Mansion,01,Strawberry Mansion 01,4201
+42101015101,42,Strawberry Mansion,02,Strawberry Mansion 02,4202
+42101015102,42,Strawberry Mansion,03,Strawberry Mansion 03,4203
+42101016901,42,Strawberry Mansion,04,Strawberry Mansion 04,4204
+42101016902,42,Strawberry Mansion,05,Strawberry Mansion 05,4205
+42101013700,42,Strawberry Mansion,06,Strawberry Mansion 06,4206
+42101015200,42,Strawberry Mansion,07,Strawberry Mansion 07,4207
+42101016800,42,Strawberry Mansion,08,Strawberry Mansion 08,4208
+42101035301,43,Torresdale North,01,Torresdale North 01,4301
+42101035302,43,Torresdale North,02,Torresdale North 02,4302
+42101036100,43,Torresdale North,03,Torresdale North 03,4303
+42101036202,43,Torresdale North,04,Torresdale North 04,4304
+42101036400,43,Torresdale North,05,Torresdale North 05,4305
+42101036303,43,Torresdale North,06,Torresdale North 06,4306
+42101036302,43,Torresdale North,07,Torresdale North 07,4307
+42101036201,43,Torresdale North,08,Torresdale North 08,4308
+42101036301,43,Torresdale North,09,Torresdale North 09,4309
+42101036203,43,Torresdale North,10,Torresdale North 10,4310
+42101035200,44,Torresdale South-Pennypack Park,01,Torresdale South-Pennypack Park 01,4401
+42101034701,44,Torresdale South-Pennypack Park,02,Torresdale South-Pennypack Park 02,4402
+42101034600,44,Torresdale South-Pennypack Park,03,Torresdale South-Pennypack Park 03,4403
+42101034803,44,Torresdale South-Pennypack Park,04,Torresdale South-Pennypack Park 04,4404
+42101034900,44,Torresdale South-Pennypack Park,05,Torresdale South-Pennypack Park 05,4405
+42101034801,44,Torresdale South-Pennypack Park,06,Torresdale South-Pennypack Park 06,4406
+42101035100,44,Torresdale South-Pennypack Park,07,Torresdale South-Pennypack Park 07,4407
+42101989100,44,Torresdale South-Pennypack Park,08,Torresdale South-Pennypack Park 08,4408
+42101034702,44,Torresdale South-Pennypack Park,09,Torresdale South-Pennypack Park 09,4409
+42101034802,44,Torresdale South-Pennypack Park,10,Torresdale South-Pennypack Park 10,4410
+42101008602,45,University City,01,University City 01,4501
+42101008801,45,University City,02,University City 02,4502
+42101008701,45,University City,03,University City 03,4503
+42101009100,45,University City,04,University City 04,4504
+42101009000,45,University City,05,University City 05,4505
+42101008702,45,University City,06,University City 06,4506
+42101007900,45,University City,07,University City 07,4507
+42101007700,45,University City,08,University City 08,4508
+42101036900,45,University City,09,University City 09,4509
+42101008601,45,University City,10,University City 10,4510
+42101008802,45,University City,11,University City 11,4511
+42101007800,45,University City,12,University City 12,4512
+42101017900,46,Upper Kensington,01,Upper Kensington 01,4601
+42101017800,46,Upper Kensington,02,Upper Kensington 02,4602
+42101017702,46,Upper Kensington,03,Upper Kensington 03,4603
+42101017701,46,Upper Kensington,04,Upper Kensington 04,4604
+42101026302,47,West Oak Lane-Cedarbrook,01,West Oak Lane-Cedarbrook 01,4701
+42101025800,47,West Oak Lane-Cedarbrook,02,West Oak Lane-Cedarbrook 02,4702
+42101026100,47,West Oak Lane-Cedarbrook,03,West Oak Lane-Cedarbrook 03,4703
+42101026301,47,West Oak Lane-Cedarbrook,04,West Oak Lane-Cedarbrook 04,4704
+42101026400,47,West Oak Lane-Cedarbrook,05,West Oak Lane-Cedarbrook 05,4705
+42101026200,47,West Oak Lane-Cedarbrook,06,West Oak Lane-Cedarbrook 06,4706
+42101026000,47,West Oak Lane-Cedarbrook,07,West Oak Lane-Cedarbrook 07,4707
+42101025900,47,West Oak Lane-Cedarbrook,08,West Oak Lane-Cedarbrook 08,4708
+42101026600,47,West Oak Lane-Cedarbrook,09,West Oak Lane-Cedarbrook 09,4709
+42101029800,48,Wissinoming-Tacony,01,Wissinoming-Tacony 01,4801
+42101031900,48,Wissinoming-Tacony,02,Wissinoming-Tacony 02,4802
+42101032000,48,Wissinoming-Tacony,03,Wissinoming-Tacony 03,4803
+42101032500,48,Wissinoming-Tacony,04,Wissinoming-Tacony 04,4804
+42101032300,48,Wissinoming-Tacony,05,Wissinoming-Tacony 05,4805
+42101038100,48,Wissinoming-Tacony,06,Wissinoming-Tacony 06,4806
+42101032100,48,Wissinoming-Tacony,07,Wissinoming-Tacony 07,4807
