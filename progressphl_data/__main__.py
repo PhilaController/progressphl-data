@@ -1,19 +1,23 @@
-"""The main command line module that defines the "spi_dashboard_data" tool."""
+"""The main command line module that defines the "progressphl-data" tool."""
 
 
 from io import StringIO
+from pathlib import Path
 
 import boto3
 import click
 import simplejson as json
 from dotenv import find_dotenv, load_dotenv
-from pathlib import Path
+
 from .census_indicators import get_census_indicators, get_trend_variables
 from .core import get_spi_data, load_meta_data
+from .crosswalk import *
+from .geo import *
 
 BUCKET = "spi-dashboard-data"
 
-here = Path(__file__).parent.absolute() 
+here = Path(__file__).parent.absolute()
+
 
 @click.group()
 @click.version_option()
@@ -34,10 +38,11 @@ def etl(version="2"):
     s3_resource = boto3.resource("s3")
 
     # Setup local output folder
-    local_output_folder = here / ".." / "data-products" / "dashboard-inputs" / f"v{version}"
+    local_output_folder = (
+        here / ".." / "data-products" / "dashboard-inputs" / f"v{version}"
+    )
     if not local_output_folder.exists():
         local_output_folder.mkdir(parents=True)
-
 
     # The SPI data
     spi_data = get_spi_data(version=version)
@@ -101,7 +106,6 @@ def etl(version="2"):
 
     # Save each name
     for name, df in data.groupby("name"):
-
         if any(name.startswith(m) for m in missing):
             continue
 
@@ -128,7 +132,6 @@ def etl(version="2"):
 
     # Save each name
     for name, df in data.groupby("indicator"):
-
         # Don't need the indicator column
         out = df.drop(columns=["indicator"])
 
@@ -141,6 +144,67 @@ def etl(version="2"):
         s3_resource.Object(BUCKET, f"v{version}/trends/{name}.json").put(
             Body=buffer.getvalue(), ACL="public-read"
         )
+
+
+@cli.command()
+@click.option("--version", type=str, default="2")
+def geo(version="2"):
+    """Save geographies."""
+
+    # Get data and geoids
+    data = get_spi_data(version=version)
+    geoids = data["geoid"].unique()
+
+    layers = {}
+
+    # Crosswalks
+    tract_hood_crosswalk = get_tract_neighborhood_crosswalk()
+    tract_puma_crosswalk = get_tract_puma_crosswalk()
+
+    # The geographies
+    tracts = get_census_tracts()
+    neighborhoods = get_neighborhoods()
+    pumas = get_pumas()
+
+    # Neighborhoods
+    layers["neighborhoods"] = neighborhoods.rename(
+        columns={"name": "neighborhood_name"}
+    ).to_crs(epsg=4326)
+
+    # PUMAs
+    layers["pumas"] = (
+        pumas.drop(columns=["id"])
+        .rename(columns={"name": "puma_name"})
+        .to_crs(epsg=4326)
+    )
+
+    # Census tracts
+    layers["census-tracts"] = (
+        tracts[["id", "geometry"]]
+        .rename(columns={"id": "geoid"})
+        .to_crs(epsg=4326)
+        .assign(missing=lambda df: (~df.geoid.isin(geoids)).astype(int))
+    ).merge(
+        tract_hood_crosswalk[["tract_geoid_alt", "neighborhood_name", "tract_id"]]
+        .merge(
+            tract_puma_crosswalk[["tract_geoid_alt", "puma_name"]], on="tract_geoid_alt"
+        )
+        .rename(columns={"tract_geoid_alt": "geoid"}),
+        on="geoid",
+    )
+
+    # City limits
+    layers["city-limits"] = (
+        tracts.set_geometry(tracts.geometry.buffer(10))
+        .drop(columns=["id", "name"])
+        .dissolve()
+        .to_crs(epsg=4326)
+    )
+
+    output_folder = here / ".." / "data-products" / "geographies"
+    for k in layers:
+        print(f"Saving {k}...")
+        layers[k].to_file(output_folder / f"{k}.geojson", driver="GeoJSON")
 
 
 if __name__ == "__main__":
