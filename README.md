@@ -30,6 +30,11 @@ account. The production dashboard reads in the data from this s3 bucket.
 
 The output data files are:
 
+- `spi_data.json`: The main data file that contains all of the values for the SPI dimensions/components and indicators. The first level of the JSON file is a key with the variable name and value is a list of values for each census tract in Philadelphia.
+- `spi_metadata.json`: The metadata for the SPI dimensions/components and indicators. It includes information on aliases, the heirarchy of the SPI framework, and definitions.
+- `trends/*`: Census-related data (e.g., household income) used in the "Citywide Trends" section of the ProgressPHL dashboard.
+- `census-data/*`: The census data for each tract, neighborhood, region that is loaded as part of the "Indicators" section of the ProgressPHL dashboard.
+
 
 ## Development set up
 
